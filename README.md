@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Centro Estetico** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://centro-estetico.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-centro-estetico/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-centro-estetico/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-centro-estetico.git
-cd federico-demo-centro-estetico
+git clone https://github.com/fedcal/demo-centro-estetico.git
+cd demo-centro-estetico
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:centro-estetico
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-centro-estetico/
+→ https://fedcal.github.io/demo-centro-estetico/
 
 ## Hub demos Federico
 

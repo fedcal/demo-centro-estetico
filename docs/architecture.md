@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-centro-estetico/
+demo-centro-estetico/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)

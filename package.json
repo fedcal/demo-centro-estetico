@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-centro-estetico",
+  "name": "demo-centro-estetico",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Centro Estetico — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://centro-estetico.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-centro-estetico.git"
+    "url": "https://github.com/fedcal/demo-centro-estetico.git"
   },
   "scripts": {
     "ng": "ng",
