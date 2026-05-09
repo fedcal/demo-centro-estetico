@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Cosa include lo sconto prima visita?",
+      "risposta": "Per chi viene per la prima volta, offriamo il 20% di sconto su qualsiasi trattamento (esclusi laser e pacchetti spa). Lo sconto si applica al check-in presentando la prenotazione."
+    },
+    {
+      "domanda": "Vendete gift card?",
+      "risposta": "Sì! Le gift card Aurea sono disponibili da €25 a €200 e non hanno scadenza. Puoi acquistarle in studio o tramite email a info@aureabeauty.it. Sono il regalo perfetto."
+    },
+    {
+      "domanda": "Ho una pelle sensibile / allergie. Posso fare i trattamenti?",
+      "risposta": "Assolutamente sì. Al momento della prenotazione ti chiederemo una breve anamnesi. Le nostre estetiste scelgono prodotti ipoallergenici e formulano i trattamenti sulla tua pelle specifica. Per il laser va eseguita una patch test preventiva."
+    },
+    {
+      "domanda": "Posso fare trattamenti in gravidanza?",
+      "risposta": "Molti trattamenti sono adatti in gravidanza dopo il primo trimestre: massaggi postura corretta, trattamenti viso idratanti, manicure e pedicure. Sconsigliamo laser, peeling chimici e pressoterapia. Indicaci sempre la gravidanza in fase di prenotazione."
+    },
+    {
+      "domanda": "Offrite abbonamenti o pacchetti?",
+      "risposta": "Sì, abbiamo pacchetti da 6 trattamenti con sconto 15% e abbonamenti mensili illimitati per manicure/pedicure semipermanente. Chiedi alla reception per il piano più adatto a te."
+    },
+    {
+      "domanda": "Come funziona la prenotazione?",
+      "risposta": "Puoi prenotare tramite il form online su questa pagina, WhatsApp +39 348 1234 567 o telefonando allo 02 8765 4321. Confermiamo entro 30 minuti. Cancellazione gratuita fino a 24h prima."
+    },
+    {
+      "domanda": "Dove siete esattamente? Come si arriva?",
+      "risposta": "Siamo in Via Brera 18, Milano. MM2 Lanza a 200m, tram 12 e 27 fermata Brera. Parcheggio pubblico P.zza Lega Lombarda a 300m."
+    },
+    {
+      "domanda": "Quanto dura in media un trattamento?",
+      "risposta": "Ogni trattamento ha la sua durata indicata nel listino (dai 15 minuti della ceretta viso alle 5 ore del Day Spa completo). Arriva 5 minuti prima per il check-in e la compilazione della scheda cliente."
+    }
+  ]
+}

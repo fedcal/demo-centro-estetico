@@ -1,0 +1,49 @@
+{
+  "ragioneSociale": "Aurea Beauty Studio S.r.l.",
+  "nomeCommerciale": "Aurea Beauty Studio",
+  "tagline": "Bellezza e benessere — Milano dal 2015",
+  "indirizzo": {
+    "via": "Via Brera 18",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20121",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4719,
+    "lng": 9.1866
+  },
+  "contatti": {
+    "telefono": "+39 02 8765 4321",
+    "whatsapp": "+39 348 1234 567",
+    "email": "info@aureabeauty.it",
+    "social": {
+      "instagram": "https://instagram.com/aureabeauty_demo",
+      "facebook": "https://facebook.com/aureabeauty_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "Chiuso",
+    "martedi": "09:00 – 19:00",
+    "mercoledi": "09:00 – 19:00",
+    "giovedi": "09:00 – 20:00",
+    "venerdi": "09:00 – 20:00",
+    "sabato": "09:00 – 18:00",
+    "domenica": "Solo su appuntamento"
+  },
+  "servizi": {
+    "primaVisitaSconto": true,
+    "scontoPercentuale": 20,
+    "giftCard": true,
+    "pacchetti": true,
+    "abbonamenti": true,
+    "accessibileDisabili": true,
+    "wifiGratuito": true,
+    "parcheggioConvenzionato": false,
+    "parcheggioPubblico": "P.zza Lega Lombarda 300m"
+  },
+  "metaSeo": {
+    "title": "Aurea Beauty Studio — Centro Estetico Milano Brera",
+    "description": "Centro estetico a Milano via Brera. Trattamenti viso, corpo, depilazione, mani e piedi. Prenota online, prima visita -20%.",
+    "keywords": ["centro estetico milano", "estetista brera", "trattamenti viso corpo", "depilazione laser milano", "spa milano"]
+  }
+}

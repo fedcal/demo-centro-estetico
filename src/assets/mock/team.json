@@ -1,0 +1,54 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Valentina Greco",
+      "ruolo": "Fondatrice e Direttrice Tecnica",
+      "bio": "Estetista con 18 anni di esperienza. Si è formata a Milano e Parigi, specializzandosi in trattamenti anti-age e dermocosmetologia. Ha fondato Aurea nel 2015 con la missione di portare il benessere autentico a Brera.",
+      "anniEsperienza": 18,
+      "image": "/assets/img/team/valentina.jpg",
+      "specializzazione": "Trattamenti Anti-Age, Radiofrequenza",
+      "certificazioni": ["CIDESCO", "Dermocosmetologia avanzata", "Tecnica kobido"]
+    },
+    {
+      "id": 2,
+      "nome": "Sara Fontana",
+      "ruolo": "Esperta Depilazione Laser",
+      "bio": "Diplomata in tecnologie laser e luce pulsata. Gestisce tutti i trattamenti con tecnologia avanzata diodica 808nm. Formazione continua su sicurezza e risultati a lungo termine.",
+      "anniEsperienza": 10,
+      "image": "/assets/img/team/sara.jpg",
+      "specializzazione": "Laser diodico, IPL, Depilazione permanente",
+      "certificazioni": ["Operatore laser certificato ISP", "Sicurezza radiazioni ottiche"]
+    },
+    {
+      "id": 3,
+      "nome": "Elisa Martinetti",
+      "ruolo": "Nail Artist Senior",
+      "bio": "Campionessa regionale di nail art 2022. Crea design unici che esprimono la personalità di ogni cliente. Esperta in ricostruzione gel e semipermanenti con tecnica zero-damage.",
+      "anniEsperienza": 8,
+      "image": "/assets/img/team/elisa.jpg",
+      "specializzazione": "Nail Art, Ricostruzione Gel, Semipermanente",
+      "certificazioni": ["Master Nail Artist (FIPE)", "Corso semipermanenti OPI"]
+    },
+    {
+      "id": 4,
+      "nome": "Chiara Russo",
+      "ruolo": "Specialista Trattamenti Corpo",
+      "bio": "Esperta in massaggi e trattamenti corpo con formazione in kinesiologia e drenaggio linfatico manuale. Certified Holistic Therapist con approccio integrato mente-corpo.",
+      "anniEsperienza": 12,
+      "image": "/assets/img/team/chiara.jpg",
+      "specializzazione": "Massaggi terapeutici, Drenaggio linfatico, Thalassoterapia",
+      "certificazioni": ["Drenaggio Linfatico Manuale Vodder", "Massaggio Hot Stone", "Holistic Therapist"]
+    },
+    {
+      "id": 5,
+      "nome": "Marta Conti",
+      "ruolo": "Estetista e Spa Therapist",
+      "bio": "Specializzata nei rituali spa e nei percorsi benessere personalizzati. Ha lavorato in resort 5 stelle prima di unirsi ad Aurea. Esperta in tecniche orientali e aromaterapia.",
+      "anniEsperienza": 9,
+      "image": "/assets/img/team/marta.jpg",
+      "specializzazione": "Rituali Spa, Aromaterapia, Hammam",
+      "certificazioni": ["Spa Therapist certificata", "Aromaterapia clinica", "Tecniche orientali"]
+    }
+  ]
+}

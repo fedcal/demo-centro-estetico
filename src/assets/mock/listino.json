@@ -1,0 +1,371 @@
+{
+  "categorie": [
+    { "id": "viso", "nome": "Trattamenti Viso", "ordine": 1 },
+    { "id": "corpo", "nome": "Trattamenti Corpo", "ordine": 2 },
+    { "id": "depilazione", "nome": "Depilazione", "ordine": 3 },
+    { "id": "mani-piedi", "nome": "Mani e Piedi", "ordine": 4 },
+    { "id": "spa", "nome": "Rituali Spa", "ordine": 5 }
+  ],
+  "trattamenti": [
+    {
+      "id": 1,
+      "categoria": "viso",
+      "nome": "Pulizia viso profonda",
+      "descrizione": "Detersione, esfoliazione, estrazione comedoni, maschera idratante. Adatta per tutti i tipi di pelle.",
+      "durata": 60,
+      "prezzo": 65,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "categoria": "viso",
+      "nome": "Idratazione intensiva",
+      "descrizione": "Trattamento con acido ialuronico e peptidi per pelle disidratata e spenta. Effetto rimpolpante immediato.",
+      "durata": 45,
+      "prezzo": 75,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "categoria": "viso",
+      "nome": "Anti-age lifting",
+      "descrizione": "Radiofrequenza + massaggio sculturale + sieri antiossidanti. Effetto lifting non invasivo visibile da subito.",
+      "durata": 75,
+      "prezzo": 110,
+      "featured": false
+    },
+    {
+      "id": 4,
+      "categoria": "viso",
+      "nome": "Trattamento anti-acne",
+      "descrizione": "Purificazione pori, riduzione sebum, LED blue light, maschera regolatrice. Protocollo 4-6 sedute consigliato.",
+      "durata": 60,
+      "prezzo": 70,
+      "featured": false
+    },
+    {
+      "id": 5,
+      "categoria": "viso",
+      "nome": "Peeling chimico superficiale",
+      "descrizione": "Acidi AHA/BHA, esfoliazione controllata per uniformare il colorito e ridurre macchie e cicatrici.",
+      "durata": 45,
+      "prezzo": 80,
+      "featured": false
+    },
+    {
+      "id": 6,
+      "categoria": "viso",
+      "nome": "Microdermabrasione",
+      "descrizione": "Esfoliazione meccanica con micro-cristalli, stimolazione del rinnovamento cellulare e collagene.",
+      "durata": 50,
+      "prezzo": 85,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "categoria": "viso",
+      "nome": "Massaggio viso kobido",
+      "descrizione": "Tecnica giapponese di massaggio facciale lifting. Drena, rimodella, rilassa e tonifica i muscoli del viso.",
+      "durata": 60,
+      "prezzo": 90,
+      "featured": false
+    },
+    {
+      "id": 8,
+      "categoria": "viso",
+      "nome": "Trattamento occhi contorno",
+      "descrizione": "Gel occhi peptidici, microcorrenti per ridurre borse e occhiaie. Effetto riposo immediato.",
+      "durata": 30,
+      "prezzo": 45,
+      "featured": false
+    },
+    {
+      "id": 9,
+      "categoria": "corpo",
+      "nome": "Massaggio relax Total Body",
+      "descrizione": "Massaggio rilassante olio di mandorle e aromi. Scioglie tensioni muscolari, migliora il sonno.",
+      "durata": 60,
+      "prezzo": 70,
+      "featured": true
+    },
+    {
+      "id": 10,
+      "categoria": "corpo",
+      "nome": "Fango anticellulite",
+      "descrizione": "Applicazione fanghi bioattivi + massaggio drenante + bendaggio termico. Riduce inestetismi e rimodella.",
+      "durata": 75,
+      "prezzo": 90,
+      "featured": false
+    },
+    {
+      "id": 11,
+      "categoria": "corpo",
+      "nome": "Pressoterapia gambe",
+      "descrizione": "Drenaggio linfatico meccanico, riduce ritenzione idrica, gonfiore e stanchezza delle gambe.",
+      "durata": 45,
+      "prezzo": 55,
+      "featured": false
+    },
+    {
+      "id": 12,
+      "categoria": "corpo",
+      "nome": "Scrub corpo esfoliante",
+      "descrizione": "Esfoliazione con sale marino e oli essenziali, pelle setosa e levigata. Ideale prima dell'abbronzatura.",
+      "durata": 40,
+      "prezzo": 50,
+      "featured": false
+    },
+    {
+      "id": 13,
+      "categoria": "corpo",
+      "nome": "Thalassoterapia",
+      "descrizione": "Bagno di alghe e sali marini in vasca idromassaggio, remineralizzante e rilassante.",
+      "durata": 60,
+      "prezzo": 80,
+      "featured": false
+    },
+    {
+      "id": 14,
+      "categoria": "corpo",
+      "nome": "Massaggio hot stone",
+      "descrizione": "Pietre basaltiche riscaldate per sciogliere tensioni profonde e riequilibrare energia.",
+      "durata": 75,
+      "prezzo": 95,
+      "featured": false
+    },
+    {
+      "id": 15,
+      "categoria": "corpo",
+      "nome": "Criomassaggio rassodante",
+      "descrizione": "Applicazione di gel criogenici + massaggio rimodellante. Rassoda, tonico e sgonfia i tessuti.",
+      "durata": 50,
+      "prezzo": 75,
+      "featured": false
+    },
+    {
+      "id": 16,
+      "categoria": "depilazione",
+      "nome": "Ceretta corpo completo",
+      "descrizione": "Ceretta tiepida a striscione o con strisce. Include gambe, ascelle, inguine.",
+      "durata": 60,
+      "prezzo": 55,
+      "featured": false
+    },
+    {
+      "id": 17,
+      "categoria": "depilazione",
+      "nome": "Ceretta viso",
+      "descrizione": "Ceretta labbro superiore, mento o sopracciglia. Cera depilante specifia pelle delicata.",
+      "durata": 15,
+      "prezzo": 15,
+      "featured": false
+    },
+    {
+      "id": 18,
+      "categoria": "depilazione",
+      "nome": "Ceretta inguine brasiliana",
+      "descrizione": "Ceretta completa zona bikini con cera liposolubile. Risultato più duraturo (3-4 settimane).",
+      "durata": 30,
+      "prezzo": 35,
+      "featured": false
+    },
+    {
+      "id": 19,
+      "categoria": "depilazione",
+      "nome": "Laser diodico gambe complete",
+      "descrizione": "Depilazione laser permanente gambe. Pacchetto 6 sedute consigliato. Pelle chiara/scura.",
+      "durata": 45,
+      "prezzo": 120,
+      "featured": false
+    },
+    {
+      "id": 20,
+      "categoria": "depilazione",
+      "nome": "Laser diodico ascelle",
+      "descrizione": "Depilazione laser ascelle permanente. Singola seduta o pacchetto 6 con sconto 20%.",
+      "durata": 20,
+      "prezzo": 50,
+      "featured": false
+    },
+    {
+      "id": 21,
+      "categoria": "depilazione",
+      "nome": "Laser corpo completo",
+      "descrizione": "Trattamento laser corpo intero con tecnologia diodica 808nm. Risultati permanenti in 6-8 sedute.",
+      "durata": 90,
+      "prezzo": 180,
+      "featured": false
+    },
+    {
+      "id": 22,
+      "categoria": "depilazione",
+      "nome": "Luce pulsata IPL viso",
+      "descrizione": "Fototricologia con luce pulsata per peli sottili su labbro e guance. 4 sedute mensili.",
+      "durata": 25,
+      "prezzo": 45,
+      "featured": false
+    },
+    {
+      "id": 23,
+      "categoria": "depilazione",
+      "nome": "Ceretta schiena uomo",
+      "descrizione": "Ceretta intera schiena con cera liposolubile professionista. Risultato curato e duraturo.",
+      "durata": 45,
+      "prezzo": 45,
+      "featured": false
+    },
+    {
+      "id": 24,
+      "categoria": "mani-piedi",
+      "nome": "Manicure classica",
+      "descrizione": "Lima, cuticole, idratazione e smalto a scelta. Include massaggio mani.",
+      "durata": 40,
+      "prezzo": 30,
+      "featured": false
+    },
+    {
+      "id": 25,
+      "categoria": "mani-piedi",
+      "nome": "Manicure semipermanente",
+      "descrizione": "Smalto semipermanente UV, durata 2-3 settimane. 200+ colori disponibili.",
+      "durata": 50,
+      "prezzo": 38,
+      "featured": false
+    },
+    {
+      "id": 26,
+      "categoria": "mani-piedi",
+      "nome": "Nail art personalizzata",
+      "descrizione": "Decorazioni, stickers, glitter o disegni freehand. Preventivo in base alla complessità.",
+      "durata": 60,
+      "prezzo": 55,
+      "featured": false
+    },
+    {
+      "id": 27,
+      "categoria": "mani-piedi",
+      "nome": "Pedicure estetica",
+      "descrizione": "Bagno piedi, lima, cuticole, rimozione callosità, smalto.",
+      "durata": 50,
+      "prezzo": 40,
+      "featured": false
+    },
+    {
+      "id": 28,
+      "categoria": "mani-piedi",
+      "nome": "Pedicure semipermanente",
+      "descrizione": "Pedicure completa con smalto semipermanente UV. 100+ colori.",
+      "durata": 60,
+      "prezzo": 48,
+      "featured": false
+    },
+    {
+      "id": 29,
+      "categoria": "mani-piedi",
+      "nome": "Ricostruzione unghie gel",
+      "descrizione": "Allungamento o correzione con gel UV, forme personalizzate (mandorla, quadrata, coffin).",
+      "durata": 90,
+      "prezzo": 65,
+      "featured": false
+    },
+    {
+      "id": 30,
+      "categoria": "mani-piedi",
+      "nome": "Rimozione semipermanente + riapplicazione",
+      "descrizione": "Rimozione sicura semipermanente + nuova applicazione completa. Rispetto unghie naturali.",
+      "durata": 70,
+      "prezzo": 45,
+      "featured": false
+    },
+    {
+      "id": 31,
+      "categoria": "spa",
+      "nome": "Rituale Aurea — Gold",
+      "descrizione": "1h45 di puro benessere: scrub corpo + massaggio relax + trattamento viso idratante. Il massimo.",
+      "durata": 105,
+      "prezzo": 160,
+      "featured": false
+    },
+    {
+      "id": 32,
+      "categoria": "spa",
+      "nome": "Rituale coppia",
+      "descrizione": "Percorso benessere per due: bagno aromatico, massaggio sincronizzato, coccole finali.",
+      "durata": 90,
+      "prezzo": 140,
+      "featured": false
+    },
+    {
+      "id": 33,
+      "categoria": "spa",
+      "nome": "Day Spa completo",
+      "descrizione": "Giornata intera: accesso vasca, pressoterapia, massaggio, trattamento viso, light lunch incluso.",
+      "durata": 300,
+      "prezzo": 175,
+      "featured": false
+    },
+    {
+      "id": 34,
+      "categoria": "spa",
+      "nome": "Hammam & Gommage",
+      "descrizione": "Bagno turco rigenerante + gommage al miele e spezie. Pelle vellutata, mente rilassata.",
+      "durata": 60,
+      "prezzo": 80,
+      "featured": false
+    },
+    {
+      "id": 35,
+      "categoria": "spa",
+      "nome": "Percorso pre-matrimoniale",
+      "descrizione": "3 appuntamenti prima del grande giorno: pulizia viso, massaggio, mani e piedi. Pacchetto sposa.",
+      "durata": 180,
+      "prezzo": 145,
+      "featured": false
+    },
+    {
+      "id": 36,
+      "categoria": "spa",
+      "nome": "Rituale di nascita",
+      "descrizione": "Massaggio delicato, impacchi idratanti viso, pedicure relax. Dedicato alle neo mamme.",
+      "durata": 90,
+      "prezzo": 110,
+      "featured": false
+    },
+    {
+      "id": 37,
+      "categoria": "spa",
+      "nome": "Detox corpo intensivo",
+      "descrizione": "Fanghi detossificanti, massaggio linfatico, sauna aromatica. Elimina tossine e stanchezza.",
+      "durata": 120,
+      "prezzo": 130,
+      "featured": false
+    },
+    {
+      "id": 38,
+      "categoria": "spa",
+      "nome": "Birthday Beauty Package",
+      "descrizione": "Il pacchetto completo per festeggiare: scrub, maschera viso, massaggio relax. Gift card inclusa.",
+      "durata": 90,
+      "prezzo": 115,
+      "featured": false
+    },
+    {
+      "id": 39,
+      "categoria": "spa",
+      "nome": "Percorso relax maternità",
+      "descrizione": "Massaggio adatto in gravidanza (dopo 12 settimane), posizioni sicure, oli non controindicati.",
+      "durata": 50,
+      "prezzo": 65,
+      "featured": false
+    },
+    {
+      "id": 40,
+      "categoria": "spa",
+      "nome": "Business Lunch Beauty",
+      "descrizione": "Manicure + trattamento viso express + styling sopracciglia. Tutto in 60 minuti nella pausa pranzo.",
+      "durata": 60,
+      "prezzo": 70,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "gallery": [
+    { "id": 1, "caption": "Trattamento viso idratante", "emoji": "✨", "category": "viso" },
+    { "id": 2, "caption": "Pulizia viso profonda", "emoji": "🌸", "category": "viso" },
+    { "id": 3, "caption": "Massaggio anti-age kobido", "emoji": "🧖", "category": "viso" },
+    { "id": 4, "caption": "Massaggio relax Total Body", "emoji": "💆", "category": "corpo" },
+    { "id": 5, "caption": "Fango anticellulite", "emoji": "🌿", "category": "corpo" },
+    { "id": 6, "caption": "Pressoterapia gambe", "emoji": "🦵", "category": "corpo" },
+    { "id": 7, "caption": "Nail art personalizzata", "emoji": "💅", "category": "mani-piedi" },
+    { "id": 8, "caption": "Manicure semipermanente", "emoji": "🌺", "category": "mani-piedi" },
+    { "id": 9, "caption": "Pedicure estetica", "emoji": "🦶", "category": "mani-piedi" },
+    { "id": 10, "caption": "Rituale Hammam & Gommage", "emoji": "♨️", "category": "spa" },
+    { "id": 11, "caption": "Rituale coppia", "emoji": "💑", "category": "spa" },
+    { "id": 12, "caption": "La sala benessere Aurea", "emoji": "🌹", "category": "studio" }
+  ]
+}
